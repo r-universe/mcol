@@ -1,10 +1,10 @@
 [
   {
-    "package": "nestfs",
+    "package": "hsstan",
     "oncran": true
   },
   {
-    "package": "hsstan",
+    "package": "nestfs",
     "oncran": true
   }
 ]
