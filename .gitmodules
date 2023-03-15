@@ -13,3 +13,8 @@
 	url = https://github.com/mcol/nestfs
 	shallow = true
 	registered = true
+[submodule "wevid"]
+	path = wevid
+	url = https://github.com/mcol/wevid
+	shallow = true
+	registered = true

@@ -6,5 +6,9 @@
   {
     "package": "nestfs",
     "oncran": true
+  },
+  {
+    "package": "wevid",
+    "oncran": true
   }
 ]
