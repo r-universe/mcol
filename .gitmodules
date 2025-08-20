@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CBTF"]
+	path = CBTF
+	url = https://github.com/mcol/caught-by-the-fuzz
 [submodule "hsstan"]
 	path = hsstan
 	url = https://github.com/mcol/hsstan
