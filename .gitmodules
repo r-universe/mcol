@@ -11,6 +11,3 @@
 [submodule "nestfs"]
 	path = nestfs
 	url = https://github.com/mcol/nestfs
-[submodule "wevid"]
-	path = wevid
-	url = https://github.com/mcol/wevid
